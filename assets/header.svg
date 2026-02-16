@@ -1,86 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Syed Abdul Muhaymin header">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="Syed Abdul Muhaymin banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#111827"/>
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="1" stop-color="#0B1220"/>
     </linearGradient>
 
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="0.5" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#60a5fa"/>
-      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;0;1" dur="10s" repeatCount="indefinite"/>
+    <radialGradient id="spot1" cx="22%" cy="30%" r="62%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="spot2" cx="80%" cy="28%" r="66%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="spot3" cx="60%" cy="88%" r="72%">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
 
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feColorMatrix in="blur" type="matrix"
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feColorMatrix in="b" type="matrix"
         values="1 0 0 0 0
                 0 1 0 0 0
                 0 0 1 0 0
-                0 0 0 0.35 0" result="glow"/>
+                0 0 0 0.22 0" result="g"/>
       <feMerge>
-        <feMergeNode in="glow"/>
+        <feMergeNode in="g"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <clipPath id="clip">
-      <rect x="0" y="0" width="1200" height="300" rx="22" ry="22"/>
+    <clipPath id="r">
+      <rect x="0" y="0" width="1400" height="360" rx="28" ry="28"/>
     </clipPath>
+
+    <style>
+      .title { font: 650 46px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #E5E7EB; letter-spacing: 0.2px; }
+      .sub   { font: 420 18px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; fill: #CBD5E1; }
+      .mono  { font: 520 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; fill: #E5E7EB; opacity: 0.92; }
+      .muted { fill: #94A3B8; opacity: 0.85; }
+    </style>
   </defs>
 
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="300" fill="url(#bg)"/>
+  <g clip-path="url(#r)">
+    <rect width="1400" height="360" fill="url(#bg)"/>
+    <rect width="1400" height="360" fill="url(#spot1)"/>
+    <rect width="1400" height="360" fill="url(#spot2)"/>
+    <rect width="1400" height="360" fill="url(#spot3)"/>
 
-    <!-- subtle grid -->
-    <g opacity="0.12">
-      <path d="M0 60 H1200M0 120 H1200M0 180 H1200M0 240 H1200" stroke="#93c5fd" stroke-width="1"/>
-      <path d="M120 0 V300M240 0 V300M360 0 V300M480 0 V300M600 0 V300M720 0 V300M840 0 V300M960 0 V300M1080 0 V300" stroke="#93c5fd" stroke-width="1"/>
+    <!-- grid -->
+    <g opacity="0.10">
+      <path d="M0 72 H1400M0 144 H1400M0 216 H1400M0 288 H1400" stroke="#93C5FD" stroke-width="1"/>
+      <path d="M140 0 V360M280 0 V360M420 0 V360M560 0 V360M700 0 V360M840 0 V360M980 0 V360M1120 0 V360M1260 0 V360" stroke="#93C5FD" stroke-width="1"/>
     </g>
 
-    <!-- animated wave lines -->
-    <path fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.65" filter="url(#softGlow)"
-      d="M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+    <!-- thin top accent -->
+    <rect x="0" y="0" width="1400" height="3" fill="url(#line)" opacity="0.7"/>
+
+    <!-- animated accent line -->
+    <path d="M-100 252 C 180 168, 420 312, 720 246 C 980 188, 1170 292, 1500 220"
+          fill="none" stroke="url(#line)" stroke-width="3" opacity="0.50" filter="url(#glow)">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
         values="
-          M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190;
-          M-50 200 C 170 260, 320 140, 540 210 C 760 280, 920 160, 1250 205;
-          M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190
+          M-100 252 C 180 168, 420 312, 720 246 C 980 188, 1170 292, 1500 220;
+          M-100 236 C 210 316, 450 170, 760 256 C 1030 332, 1210 192, 1500 242;
+          M-100 252 C 180 168, 420 312, 720 246 C 980 188, 1170 292, 1500 220
         "/>
     </path>
 
-    <path fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.35"
-      d="M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite"
-        values="
-          M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225;
-          M-80 225 C 140 290, 340 170, 580 245 C 800 300, 1000 190, 1280 235;
-          M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225
-        "/>
-    </path>
+    <!-- top-right dots -->
+    <g transform="translate(1265 62)">
+      <circle cx="0" cy="0" r="6.5" fill="#22D3EE" opacity="0.95"/>
+      <circle cx="26" cy="0" r="6.5" fill="#A78BFA" opacity="0.95"/>
+      <circle cx="52" cy="0" r="6.5" fill="#60A5FA" opacity="0.95"/>
+    </g>
 
-    <!-- title -->
-    <text x="70" y="120" font-size="42" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#e5e7eb">
-      Syed Abdul Muhaymin
-    </text>
+    <!-- content -->
+    <g transform="translate(88 92)">
+      <text class="title" x="0" y="0" dominant-baseline="hanging">Syed Abdul Muhaymin</text>
 
-    <text x="70" y="160" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#cbd5e1">
-      Fullstack JavaScript Specialist · SaaS Systems · Secure APIs · Scalable Architecture
-    </text>
-
-    <!-- small accent pill -->
-    <g transform="translate(70 190)">
-      <rect x="0" y="0" width="365" height="34" rx="10" fill="#0b1220" opacity="0.9" stroke="url(#accent)" stroke-width="1.2"/>
-      <text x="14" y="22" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#e5e7eb">
-        4 Years · Freelance and Job Focused · Building LMS and SaaS
+      <text class="sub" x="0" y="66" dominant-baseline="hanging">
+        Fullstack JavaScript Specialist · SaaS Products · Modern Web Apps · Secure Backend Systems
       </text>
-    </g>
 
-    <!-- corner dot -->
-    <circle cx="1140" cy="70" r="7" fill="#22d3ee" opacity="0.9"/>
-    <circle cx="1165" cy="70" r="7" fill="#a78bfa" opacity="0.9"/>
-    <circle cx="1190" cy="70" r="7" fill="#60a5fa" opacity="0.9"/>
+      <!-- pill -->
+      <g transform="translate(0 110)">
+        <rect x="0" y="0" width="500" height="40" rx="12" fill="#050814" opacity="0.70" stroke="url(#line)" stroke-width="1.2"/>
+        <text class="mono" x="16" y="25">4 Years · Freelance and Job Focused · SaaS and Web Apps</text>
+      </g>
+
+      <!-- micro line -->
+      <g transform="translate(0 176)">
+        <text class="mono muted" x="0" y="0" dominant-baseline="hanging">Stack:</text>
+        <text class="mono" x="62" y="0" dominant-baseline="hanging">React</text>
+        <text class="mono muted" x="110" y="0" dominant-baseline="hanging">·</text>
+        <text class="mono" x="126" y="0" dominant-baseline="hanging">Node</text>
+        <text class="mono muted" x="166" y="0" dominant-baseline="hanging">·</text>
+        <text class="mono" x="182" y="0" dominant-baseline="hanging">TypeScript</text>
+        <text class="mono muted" x="274" y="0" dominant-baseline="hanging">·</text>
+        <text class="mono" x="290" y="0" dominant-baseline="hanging">Postgres</text>
+        <text class="mono muted" x="360" y="0" dominant-baseline="hanging">·</text>
+        <text class="mono" x="376" y="0" dominant-baseline="hanging">Prisma</text>
+        <text class="mono muted" x="430" y="0" dominant-baseline="hanging">·</text>
+        <text class="mono" x="446" y="0" dominant-baseline="hanging">Security-first</text>
+      </g>
+    </g>
   </g>
 </svg>
