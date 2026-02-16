@@ -103,7 +103,7 @@ Open to:
 - SaaS and web application builds  
 - Backend-heavy architecture work  
 
-Email: muhayminpirzada@gmail.com
+Email: muhayminpirzada@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/syed-muhaymin/<br>
 
 <p align="center">
