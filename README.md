@@ -106,10 +106,6 @@ For projects that need scraping or updates at scale:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
 </p>
 
