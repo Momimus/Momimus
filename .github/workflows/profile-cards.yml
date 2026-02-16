@@ -2,19 +2,24 @@ name: Generate Profile Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Momimus
           BRANCH_NAME: main
-          # themes: github_dark, github, nord_dark, solarized, etc
           THEME: github_dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
