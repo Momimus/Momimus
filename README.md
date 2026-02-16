@@ -7,22 +7,36 @@
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Muhaymin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Experience-4%20Years-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20JS-1f2937?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Momimus&style=for-the-badge&color=0e75b6" />
 </p>
 
 <p align="center">
-  I build production-grade web systems with strong architecture, clean UI, secure auth and scalable backend patterns.
+  Fullstack developer building modern SaaS and web apps with secure backend systems and clean frontend UI.
 </p>
 
 ---
 
 ## About
 
-- Fullstack developer focused on JavaScript and TypeScript across modern frontend and backend systems  
-- Experience across freelance deliveries and professional team environments  
-- Built real-world systems like an LMS platform and SaaS-style tools with security-first design  
-- I care about maintainability, performance, clear contracts and shipping reliably  
+I’m Syed Abdul Muhaymin, a Fullstack JavaScript specialist with 4 years of experience building production-ready web systems.
+
+I work across freelance and professional environments and I care about:
+- clean architecture and predictable codebases  
+- secure auth and practical security defaults  
+- fast, maintainable UI with modern frontend patterns  
+- shipping reliably with clear scope and updates  
+
+---
+
+## What I Build
+
+- SaaS dashboards and admin panels  
+- Secure REST APIs and backend services  
+- Role-based systems (multi-user and multi-tenant patterns)  
+- CMS-style modules (content models, workflows, moderation)  
+- Automation pipelines and scraping systems when needed  
+- AI-integrated features for real product workflows  
 
 ---
 
@@ -64,52 +78,57 @@
 
 ## Featured Work
 
-### LMS Platform (Fullstack)
-A modern learning platform built with React, TypeScript, Express, PostgreSQL and Prisma.
+### Fullstack SaaS Platform
+A modern web app built with React, TypeScript, Node/Express and PostgreSQL.
 
-Highlights:
-- Secure auth with HTTP-only cookies and CSRF protection  
-- Role-based access across student, instructor and admin flows  
-- Password reset workflow with expiring tokens  
-- Clean schema design and scalable backend structure  
+What I typically deliver in these systems:
+- role-based access and protected routes  
+- secure authentication patterns  
+- clean schema design and migrations  
+- admin dashboards and analytics-ready structure  
+- production-ready APIs with clear error contracts  
 
-### SaaS and CMS Direction
-I’m actively building more products in the SaaS and CMS space with reusable patterns:
+### CMS Style Web Apps
+Modular content-driven systems with:
+- structured content models  
+- moderation and workflows  
 - role-aware dashboards  
-- modular content models  
 - scalable API design  
-- strong security baseline  
 
-### Scalable Scraping and Automation Systems
-Experience building scraping pipelines designed to scale:
-- concurrency-first design  
+### Automation and Data Pipelines
+For projects that need scraping or updates at scale:
+- concurrency-first scraping patterns  
 - queue-based workflows  
-- notification and update triggers  
+- change detection and notifications  
 
 ---
 
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="languages" />
 </p>
 
 ---
 
-## Work
+## Work With Me
 
-Open to:
-- serious freelance projects  
+I’m open to:
 - full-time roles  
-- SaaS collaborations  
+- high-quality freelance work  
+- SaaS and web app builds  
 - backend-heavy architecture work  
 
 LinkedIn: https://www.linkedin.com/in/syed-muhaymin/
+
+<p align="center">
+  <b>Modern SaaS. Secure APIs. Clean UI. Reliable Delivery.</b>
+</p>
