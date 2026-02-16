@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Syed Abdul Muhaymin header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.35 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="300" rx="22" ry="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- subtle grid -->
+    <g opacity="0.12">
+      <path d="M0 60 H1200M0 120 H1200M0 180 H1200M0 240 H1200" stroke="#93c5fd" stroke-width="1"/>
+      <path d="M120 0 V300M240 0 V300M360 0 V300M480 0 V300M600 0 V300M720 0 V300M840 0 V300M960 0 V300M1080 0 V300" stroke="#93c5fd" stroke-width="1"/>
+    </g>
+
+    <!-- animated wave lines -->
+    <path fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.65" filter="url(#softGlow)"
+      d="M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+          M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190;
+          M-50 200 C 170 260, 320 140, 540 210 C 760 280, 920 160, 1250 205;
+          M-50 210 C 150 150, 300 270, 520 205 C 740 140, 900 260, 1250 190
+        "/>
+    </path>
+
+    <path fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.35"
+      d="M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225;
+          M-80 225 C 140 290, 340 170, 580 245 C 800 300, 1000 190, 1280 235;
+          M-80 235 C 120 170, 320 290, 560 235 C 780 190, 980 280, 1280 225
+        "/>
+    </path>
+
+    <!-- title -->
+    <text x="70" y="120" font-size="42" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#e5e7eb">
+      Syed Abdul Muhaymin
+    </text>
+
+    <text x="70" y="160" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#cbd5e1">
+      Fullstack JavaScript Specialist · SaaS Systems · Secure APIs · Scalable Architecture
+    </text>
+
+    <!-- small accent pill -->
+    <g transform="translate(70 190)">
+      <rect x="0" y="0" width="365" height="34" rx="10" fill="#0b1220" opacity="0.9" stroke="url(#accent)" stroke-width="1.2"/>
+      <text x="14" y="22" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#e5e7eb">
+        4 Years · Freelance and Job Focused · Building LMS and SaaS
+      </text>
+    </g>
+
+    <!-- corner dot -->
+    <circle cx="1140" cy="70" r="7" fill="#22d3ee" opacity="0.9"/>
+    <circle cx="1165" cy="70" r="7" fill="#a78bfa" opacity="0.9"/>
+    <circle cx="1190" cy="70" r="7" fill="#60a5fa" opacity="0.9"/>
+  </g>
+</svg>
