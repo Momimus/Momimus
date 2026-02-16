@@ -7,109 +7,122 @@
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Muhaymin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Experience-4%20Years-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20JS-1f2937?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Momimus&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Specialty-SaaS%20Architecture-1f2937?style=for-the-badge" />
 </p>
 
 <p align="center">
-  Fullstack developer building modern SaaS and web apps with secure backend systems and clean frontend UI.
+  I design and ship secure SaaS platforms and scalable web applications with clean architecture and production-grade backend systems.
 </p>
+
+---
 
 ## About
 
-I’m Syed Abdul Muhaymin, a Fullstack JavaScript specialist with 4 years of experience building production-ready web systems.
+I’m Syed Abdul Muhaymin, a Fullstack JavaScript engineer focused on building reliable, secure and maintainable systems.
 
-I work across freelance and professional environments and I care about:
-- clean architecture and predictable codebases  
-- secure auth and practical security defaults  
-- fast, maintainable UI with modern frontend patterns  
-- shipping reliably with clear scope and updates  
+Over the past 4 years, I’ve worked across freelance and professional environments delivering production-ready web applications with strong backend foundations and modern frontend architecture.
+
+I focus on building systems that scale, remain predictable under growth and are structured for long-term maintainability.
+
+---
+
+## Engineering Principles
+
+- Security by default  
+- Clean architecture over quick patches  
+- Clear API contracts and predictable data flow  
+- Modular systems that scale with product growth  
+- Maintainable codebases over clever shortcuts  
+- Shipping reliably with clear communication  
+
+---
 
 ## What I Build
 
-- SaaS dashboards and admin panels  
+- SaaS platforms and admin dashboards  
 - Secure REST APIs and backend services  
-- Role-based systems (multi-user and multi-tenant patterns)  
-- CMS-style modules (content models, workflows, moderation)  
-- Automation pipelines and scraping systems when needed  
-- AI-integrated features for real product workflows  
+- Role-based and multi-tenant systems  
+- CMS-style modular web applications  
+- Automation and data-driven workflows  
+- AI-integrated features inside real product flows  
+
+---
+
+## Selected Work
+
+### Fullstack SaaS Platform
+
+Modern web application built with React, TypeScript, Node and PostgreSQL.
+
+Key capabilities:
+- Role-based access control across multiple user types  
+- Secure authentication using HTTP-only cookies and CSRF protection  
+- Structured schema design with migrations  
+- Modular backend architecture ready for scaling  
+- Clear error contracts and API boundaries  
+
+---
+
+### Modular CMS-Style Web Applications
+
+Content-driven systems designed for flexibility and growth.
+
+- Structured content models  
+- Moderation workflows  
+- Role-aware dashboards  
+- Extensible backend services  
+
+---
+
+### Automation and Data Systems
+
+Built for performance and scalability when products require structured data flows.
+
+- Concurrency-first patterns  
+- Queue-based background processing  
+- Change detection and notification pipelines  
+
+---
 
 ## Core Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0b1220?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0b1220?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0b1220?style=flat&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0b1220?style=flat&logo=tailwindcss&logoColor=white)
+React · Next.js · TypeScript · Vite · Tailwind
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0b1220?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0b1220?style=flat&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=flat&logo=mongodb&logoColor=white)
+Node.js · Express · PostgreSQL · Prisma · MongoDB
 
-### Security and Reliability
-![JWT](https://img.shields.io/badge/JWT-0b1220?style=flat)
-![HTTP-Only Cookies](https://img.shields.io/badge/HTTP--Only%20Cookies-0b1220?style=flat)
-![CSRF](https://img.shields.io/badge/CSRF%20Protection-0b1220?style=flat)
-![RBAC](https://img.shields.io/badge/RBAC-0b1220?style=flat)
-![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-0b1220?style=flat)
-![Validation](https://img.shields.io/badge/Input%20Validation-0b1220?style=flat)
+### Security & Reliability
+JWT · HTTP-only cookies · CSRF protection · RBAC · Rate limiting · Input validation
 
-### Dev Tools
-![Docker](https://img.shields.io/badge/Docker-0b1220?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0b1220?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b1220?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0b1220?style=flat&logo=postman&logoColor=white)
+### Dev & Infrastructure
+Docker · AWS · GitHub Actions · Postman
 
 ### Additional Experience
-![Python](https://img.shields.io/badge/Python-0b1220?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0b1220?style=flat&logo=php&logoColor=white)
+Python · PHP
 
-## Featured Work
+---
 
-### Fullstack SaaS Platform
-A modern web app built with React, TypeScript, Node/Express and PostgreSQL.
+## Currently Focused On
 
-What I typically deliver in these systems:
-- role-based access and protected routes  
-- secure authentication patterns  
-- clean schema design and migrations  
-- admin dashboards and analytics-ready structure  
-- production-ready APIs with clear error contracts  
+- Designing reusable SaaS architecture patterns  
+- Improving backend structure for scale and clarity  
+- Integrating AI features into real-world product workflows  
+- Refining secure auth and role-based system design  
 
-### CMS Style Web Apps
-Modular content-driven systems with:
-- structured content models  
-- moderation and workflows  
-- role-aware dashboards  
-- scalable API design  
-
-### Automation and Data Pipelines
-For projects that need scraping or updates at scale:
-- concurrency-first scraping patterns  
-- queue-based workflows  
-- change detection and notifications  
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
-</p>
-
+---
 
 ## Work With Me
 
-I’m open to:
-- full-time roles  
-- high-quality freelance work  
-- SaaS and web app builds  
-- backend-heavy architecture work  
+Open to:
+
+- Full-time engineering roles  
+- High-quality freelance engagements  
+- SaaS and web application builds  
+- Backend-heavy architecture work  
 
 LinkedIn: https://www.linkedin.com/in/syed-muhaymin/
 
 <p align="center">
-  <b>Modern SaaS. Secure APIs. Clean UI. Reliable Delivery.</b>
+  <b>Secure Systems. Clean Architecture. Scalable SaaS.</b>
 </p>
