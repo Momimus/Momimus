@@ -14,8 +14,6 @@
   I design and ship secure SaaS platforms and scalable web applications with clean architecture and production-grade backend systems.
 </p>
 
----
-
 ## About
 
 I’m Syed Abdul Muhaymin, a Fullstack JavaScript engineer focused on building reliable, secure and maintainable systems.
@@ -23,8 +21,6 @@ I’m Syed Abdul Muhaymin, a Fullstack JavaScript engineer focused on building r
 Over the past 4 years, I’ve worked across freelance and professional environments delivering production-ready web applications with strong backend foundations and modern frontend architecture.
 
 I focus on building systems that scale, remain predictable under growth and are structured for long-term maintainability.
-
----
 
 ## Engineering Principles
 
@@ -35,8 +31,6 @@ I focus on building systems that scale, remain predictable under growth and are 
 - Maintainable codebases over clever shortcuts  
 - Shipping reliably with clear communication  
 
----
-
 ## What I Build
 
 - SaaS platforms and admin dashboards  
@@ -45,8 +39,6 @@ I focus on building systems that scale, remain predictable under growth and are 
 - CMS-style modular web applications  
 - Automation and data-driven workflows  
 - AI-integrated features inside real product flows  
-
----
 
 ## Selected Work
 
@@ -61,8 +53,6 @@ Key capabilities:
 - Modular backend architecture ready for scaling  
 - Clear error contracts and API boundaries  
 
----
-
 ### Modular CMS-Style Web Applications
 
 Content-driven systems designed for flexibility and growth.
@@ -72,8 +62,6 @@ Content-driven systems designed for flexibility and growth.
 - Role-aware dashboards  
 - Extensible backend services  
 
----
-
 ### Automation and Data Systems
 
 Built for performance and scalability when products require structured data flows.
@@ -81,8 +69,6 @@ Built for performance and scalability when products require structured data flow
 - Concurrency-first patterns  
 - Queue-based background processing  
 - Change detection and notification pipelines  
-
----
 
 ## Core Stack
 
@@ -101,16 +87,12 @@ Docker · AWS · GitHub Actions · Postman
 ### Additional Experience
 Python · PHP
 
----
-
 ## Currently Focused On
 
 - Designing reusable SaaS architecture patterns  
 - Improving backend structure for scale and clarity  
 - Integrating AI features into real-world product workflows  
 - Refining secure auth and role-based system design  
-
----
 
 ## Work With Me
 
