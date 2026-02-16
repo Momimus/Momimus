@@ -1,149 +1,115 @@
-<h1 align="center">Syed Abdul Muhaymin</h1>
-<h3 align="center">Fullstack JavaScript Specialist | SaaS & AI-Driven Systems</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Syed Abdul Muhaymin Header" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-muhaymin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Muhaymin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Muhaymin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-4%20Years-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20JavaScript-222222?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=Momimus&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/Experience-4%20Years-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-1f2937?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Momimus&style=for-the-badge&color=0e75b6" />
+</p>
+
+<p align="center">
+  I build production-grade web systems with strong architecture, clean UI, secure auth and scalable backend patterns.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I design and build production-grade fullstack systems using modern JavaScript architecture.
-
-Over the past 4 years, I’ve worked across freelance and professional environments delivering:
-
-- Scalable SaaS platforms  
-- AI-integrated systems  
-- Secure REST APIs  
-- Real-world LMS solutions  
-- CMS-style content systems  
-- Automation & scraping engines  
-
-I focus on clean architecture, security-first backend design and performance-oriented frontend systems.
+- Fullstack developer focused on JavaScript and TypeScript across modern frontend and backend systems  
+- Experience across freelance deliveries and professional team environments  
+- Built real-world systems like an LMS platform and SaaS-style tools with security-first design  
+- I care about maintainability, performance, clear contracts and shipping reliably  
 
 ---
 
-## 🧠 Core Stack
+## Core Stack
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Vite-000?style=flat&logo=vite"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Redux-000?style=flat&logo=redux"/>
-</p>
+![React](https://img.shields.io/badge/React-0b1220?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0b1220?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0b1220?style=flat&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0b1220?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/Prisma-000?style=flat&logo=prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/REST%20API-000?style=flat"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0b1220?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0b1220?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=flat&logo=mongodb&logoColor=white)
 
-### Security & Auth
-<p>
-  <img src="https://img.shields.io/badge/JWT-000?style=flat"/>
-  <img src="https://img.shields.io/badge/HTTP--Only%20Cookies-000?style=flat"/>
-  <img src="https://img.shields.io/badge/CSRF%20Protection-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Rate%20Limiting-000?style=flat"/>
-  <img src="https://img.shields.io/badge/RBAC-000?style=flat"/>
-  <img src="https://img.shields.io/badge/Input%20Validation-000?style=flat"/>
-</p>
+### Security and Reliability
+![JWT](https://img.shields.io/badge/JWT-0b1220?style=flat)
+![HTTP-Only Cookies](https://img.shields.io/badge/HTTP--Only%20Cookies-0b1220?style=flat)
+![CSRF](https://img.shields.io/badge/CSRF%20Protection-0b1220?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-0b1220?style=flat)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-0b1220?style=flat)
+![Validation](https://img.shields.io/badge/Input%20Validation-0b1220?style=flat)
 
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000?style=flat&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman"/>
-</p>
+### Dev Tools
+![Docker](https://img.shields.io/badge/Docker-0b1220?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0b1220?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b1220?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0b1220?style=flat&logo=postman&logoColor=white)
+
+### Additional Experience
+![Python](https://img.shields.io/badge/Python-0b1220?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0b1220?style=flat&logo=php&logoColor=white)
 
 ---
 
-## 🏗 Notable Projects
+## Featured Work
 
-### 🎓 Fullstack LMS Platform
-Modern SaaS-style learning system built with React + TypeScript + Express + PostgreSQL.
+### LMS Platform (Fullstack)
+A modern learning platform built with React, TypeScript, Express, PostgreSQL and Prisma.
 
-Features:
-- JWT via HTTP-only cookies
-- Role-based access control
-- Instructor & student dashboards
-- Manual enrollment workflow
-- Secure password reset flow
-- Production-ready architecture
+Highlights:
+- Secure auth with HTTP-only cookies and CSRF protection  
+- Role-based access across student, instructor and admin flows  
+- Password reset workflow with expiring tokens  
+- Clean schema design and scalable backend structure  
 
----
+### SaaS and CMS Direction
+I’m actively building more products in the SaaS and CMS space with reusable patterns:
+- role-aware dashboards  
+- modular content models  
+- scalable API design  
+- strong security baseline  
 
-### 🧩 SaaS Lead Generation Tool
-Automated system for premium domain owners:
-- Keyword generation
-- Lead sourcing
-- Data enrichment
-- PDF report generation
-- Scalable architecture
-
----
-
-### 📰 Scalable Multi-Site Scraper
-Built to handle hundreds to thousands of websites.
-- Concurrent scraping
-- Queue system
-- Notification engine
-- Designed for high scalability
+### Scalable Scraping and Automation Systems
+Experience building scraping pipelines designed to scale:
+- concurrency-first design  
+- queue-based workflows  
+- notification and update triggers  
 
 ---
 
-## 🧱 Architecture Philosophy
-
-I build systems that are:
-
-- Modular  
-- Secure by default  
-- Cleanly structured  
-- Easy to extend  
-- Performance aware  
-
-I treat backend architecture seriously. Clean schema design. Clear error contracts. Scalable patterns.
-
----
-
-## 📊 GitHub Overview
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momimus&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
 </p>
-
----
-
-## 🤝 Work With Me
-
-I’m open to:
-
-- Full-time opportunities  
-- High-quality freelance projects  
-- SaaS product collaborations  
-- Backend-heavy architecture work  
-
-If you're building something serious and need clean fullstack execution, let's connect.
-
-📩 LinkedIn: https://www.linkedin.com/in/syed-muhaymin/
-
----
 
 <p align="center">
-  <b>Fullstack JavaScript. Production Systems. Clean Architecture.</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true" alt="languages" />
+</p>
+
+---
+
+## Work
+
+Open to:
+- serious freelance projects  
+- full-time roles  
+- SaaS collaborations  
+- backend-heavy architecture work  
+
+LinkedIn: https://www.linkedin.com/in/syed-muhaymin/
