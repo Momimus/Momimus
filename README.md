@@ -15,8 +15,6 @@
   Fullstack developer building modern SaaS and web apps with secure backend systems and clean frontend UI.
 </p>
 
----
-
 ## About
 
 I’m Syed Abdul Muhaymin, a Fullstack JavaScript specialist with 4 years of experience building production-ready web systems.
@@ -27,8 +25,6 @@ I work across freelance and professional environments and I care about:
 - fast, maintainable UI with modern frontend patterns  
 - shipping reliably with clear scope and updates  
 
----
-
 ## What I Build
 
 - SaaS dashboards and admin panels  
@@ -37,8 +33,6 @@ I work across freelance and professional environments and I care about:
 - CMS-style modules (content models, workflows, moderation)  
 - Automation pipelines and scraping systems when needed  
 - AI-integrated features for real product workflows  
-
----
 
 ## Core Stack
 
@@ -74,8 +68,6 @@ I work across freelance and professional environments and I care about:
 ![Python](https://img.shields.io/badge/Python-0b1220?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0b1220?style=flat&logo=php&logoColor=white)
 
----
-
 ## Featured Work
 
 ### Fullstack SaaS Platform
@@ -100,8 +92,6 @@ For projects that need scraping or updates at scale:
 - concurrency-first scraping patterns  
 - queue-based workflows  
 - change detection and notifications  
-
----
 
 ## GitHub Snapshot
 
