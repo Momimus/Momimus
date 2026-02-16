@@ -106,18 +106,17 @@ For projects that need scraping or updates at scale:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/0-profile-details.png" alt="profile details" width="92%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/3-stats.png" alt="stats" width="45%" />
-  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/4-productive-time.png" alt="productive time" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/1-repos-per-language.png" alt="repos per language" width="45%" />
-  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/2-most-commit-language.png" alt="most commit language" width="45%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="languages" />
 </p>
+
 
 
 ---
