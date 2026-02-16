@@ -104,6 +104,7 @@ Open to:
 - Backend-heavy architecture work  
 
 LinkedIn: https://www.linkedin.com/in/syed-muhaymin/
+Email: muhayminpirzada@gmail.com
 
 <p align="center">
   <b>Secure Systems. Clean Architecture. Scalable SaaS.</b>
