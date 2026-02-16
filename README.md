@@ -106,16 +106,19 @@ For projects that need scraping or updates at scale:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momimus&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/0-profile-details.png" alt="profile details" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="streak" />
+  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/3-stats.png" alt="stats" width="45%" />
+  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/4-productive-time.png" alt="productive time" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="languages" />
+  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/1-repos-per-language.png" alt="repos per language" width="45%" />
+  <img src="https://raw.githubusercontent.com/Momimus/Momimus/main/profile-summary-card-output/github_dark/2-most-commit-language.png" alt="most commit language" width="45%" />
 </p>
+
 
 ---
 
