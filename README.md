@@ -109,13 +109,6 @@ For projects that need scraping or updates at scale:
   <img src="https://streak-stats.demolab.com?user=Momimus&theme=transparent&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Momimus&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="languages" />
-</p>
-
-
-
----
 
 ## Work With Me
 
