@@ -103,8 +103,8 @@ Open to:
 - SaaS and web application builds  
 - Backend-heavy architecture work  
 
-LinkedIn: https://www.linkedin.com/in/syed-muhaymin/<br>
 Email: muhayminpirzada@gmail.com
+LinkedIn: https://www.linkedin.com/in/syed-muhaymin/<br>
 
 <p align="center">
   <b>Secure Systems. Clean Architecture. Scalable SaaS.</b>
