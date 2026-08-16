@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-muhaymin/">
+  <a href="www.linkedin.com/in/syed-abdul-muhaymin">
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Muhaymin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Experience-4%20Years-111111?style=for-the-badge" />
